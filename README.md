@@ -27,6 +27,8 @@ Olá, meu nome é Gabriel Borges! Sou um desenvolvedor JR com experiência em [H
 ## Contato
   <a href = "mailto:gabrielmagaborges@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriel-borges-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href="https://www.instagram.com/borges_.gb/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gabriel276-only&show_icons=true&theme=tokyonight)
 
