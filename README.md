@@ -8,7 +8,6 @@ Olá, meu nome é Gabriel Borges! Sou um desenvolvedor JR com experiência em [H
 
 <div>
   <a href="https://github.com/Gabriel276-only">
-    <img src
 </div>
 
 <div style="display: inline_block"><br>
