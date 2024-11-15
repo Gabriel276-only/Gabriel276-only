@@ -2,7 +2,7 @@
 Olá, meu nome é Gabriel Borges! Sou um desenvolvedor JR com experiência em [HTML5, CSS, TAILWIND, JAVASCRIPT, PHP, MYSQL]. A inovação é parte do meu trabalho, posso transformar suas metas e trazer o site dos seus sonhos.
 
 ## Habilidades
-* **Linguagens:** PHP, JavaScript, , MYSQL
+* **Linguagens:** PHP, JavaScript, MYSQL
 * **Frameworks:** React, TAILWIND, Node.js
 * **Ferramentas:** Git
 
@@ -29,4 +29,5 @@ Olá, meu nome é Gabriel Borges! Sou um desenvolvedor JR com experiência em [H
   <a href = "mailto:gabrielmagaborges@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriel-borges-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-[![Seu GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu_usuario&show_icons=true&theme=tokyonight)]
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gabriel276-only&show_icons=true&theme=tokyonight)
+
