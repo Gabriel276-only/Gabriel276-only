@@ -6,12 +6,27 @@ Olá, meu nome é Gabriel Borges! Sou um desenvolvedor JR com experiência em [H
 * **Frameworks:** React, TAILWIND, Node.js
 * **Ferramentas:** Git
 
+<div>
+  <a href="https://github.com/Gabriel276-only">
+    <img src
+</div>
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="GB-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="GB-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="GB-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="GB-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="GB-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  
+  
+</div>
+
 ## Projetos
 * **[Form-Sample]:** [um sistema de cadastro-login, e host] - [Link para o repositório]
 * **[ConsultAR]:** [uma landing-page de uma clínica de saude e bem-estar] - [Link para o repositório]
 
 ## Contato
-* **Email:** [gabrielmagaborges@gmail.com]
-* **LinkedIn:** [link para seu perfil]
+  <a href = "mailto:gabrielmagaborges@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/gabriel-borges-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 [![Seu GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu_usuario&show_icons=true&theme=tokyonight)]
