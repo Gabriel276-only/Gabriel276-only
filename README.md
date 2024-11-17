@@ -22,7 +22,7 @@ Olá, meu nome é Gabriel Borges! Sou um desenvolvedor JR com experiência em [H
 
 ## Projetos
 * **[Form-Sample]:** [um sistema de cadastro-login, e host] - [Link para o repositório]
-* **[ConsultAR]:** [uma landing-page de uma clínica de saude e bem-estar] - [Link para o repositório]
+* **[ConsultAR]:** [uma landing-page de uma clínica de saude e bem-estar] -https://github.com/Gabriel276-only/consultAR
 
 ## Contato
   <a href = "mailto:gabrielmagaborges@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
